@@ -1,6 +1,6 @@
 
 
-# Luc_P
+# Lucene
 ```It is a software that searches and indexed a given set of input files```
 
 ```It is based on Lucene API```
